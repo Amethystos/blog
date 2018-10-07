@@ -5,8 +5,8 @@ description: おはいよう＾＾
 highlighter: null
 permalink: /:title
 
-url: hikarunguyen.xyz
-baseurl: /hikarunguyen.xyz
+url: http://hikarunguyen.xyz
+baseurl: /
 
 # Custom options:
 # color_scheme: azul|ruby|amber|avocado
